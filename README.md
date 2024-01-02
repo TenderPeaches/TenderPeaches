@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my github
+
+Full-stack Web Dev with a heavy preference for Ruby on Rails projects and decentralized methods of organisation
+
+Open to new jobs
 
 <!--
 **TenderPeaches/TenderPeaches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
